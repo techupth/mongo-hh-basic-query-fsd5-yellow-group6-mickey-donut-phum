@@ -1,0 +1,1 @@
+const deleteJack = db.pizzaOrders.deleteMany({ customer_name: "Jack" });
